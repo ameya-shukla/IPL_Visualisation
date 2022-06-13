@@ -3,6 +3,7 @@
 
 ## Overview
 Found insights using Tableau on matches, players, and teams on an IPL dataset. The dataset consists of data from all IPL seasons between 2008 and 2017. Built three dashboards describing the match, player, and team statistics across all IPL seasons.
+
 <br>
 
 ## Problem Statement
@@ -52,4 +53,36 @@ The final dashboard can be broken down into several categories and sub-categorie
 - Each dashboard should contain the visualisations from the sub-category worksheets. For example, in the Match statistics dashboard, the visualisations should be from the Toss Outcome vs Match Outcome, Biggest Wins and Highest Totals worksheets. Similarly, you need to prepare the dashboards for Player statistics and Team statistics.
 - The dashboards and the corresponding visualisations should be well-detailed.
 - A PPT file containing the summary of the entire visual analysis for this assignment. This ppt should contain all the visualisations that have been used along with the necessary insights and details.
+
+<br>
+
+
+## Inferences
+1. Match Statistics
+   - M Chinnaswamy Stadiumis the ground that not only has the highest count of toss winners resulting in winning the match, but also has the the highest    count of toss winners resulting in loosing the match.
+   - OUTsurance Oval venue is having no toss winner that had lost the match. 
+   - Vidarbha Cricket Association Stadium, Jamtha has the lowest count of toss winners who won the match.
+   - Mumbai Indians is having the highest wins by runs overall followed by Royal Challengers Bangalore and then Kolkata Knight Riders.
+   - In terms of wickets, Mumbai Indians, Royal Challengers Bangalore, Kolkata Knight Riders, Kings XI Punjab, Rajasthan Royals, Delhi Daredevils, Chennai Super Kings, Sunrisers Hyderabad, and Deccan Chargers are leading in all seasons.
+   - Mumbai Indians have the highest totals across all seasons, followed by Royal Challengers Bangalore and Kings XI Punjab.
+   - Kochi Tuskers Kerala has the lowest number in terms of highest totals across all seasons.
+
+2. **Player Statistics**
+   - In the year 2016, Virat Kohli was the orange cap winner. 
+   - According to the dataset, Virat Kohli also had scored the highest runs ever by an orange cap winner across all seasons. The total runs he scored was 973.
+   - In the year 2011, SL Malinga was the purple cap winner. 
+   - SL Malinga also took the highest wickets ever taken by a purple cap winner across all seasons with a total of 30 wickets in the year 2011.
+   - Gautam Gambhir was the player that had scored most Fours in all seasons combined followed by SK Raina and S Dhawan.
+   - CH Gayle was the player that had scored the highest number of sixes in all seasons combined followed by SK Raina and RG Sharma.
+
+3. **Team Statistics**
+   - Mumbai Indians had the highest number of wins whereas Kochi Tuskers Kerala had the lowest wins.
+   - Delhi Daredevils had the highest number of IPL losses whereas Kochi Tuskers Kerala had the lowest IPL losses.
+   - Chennai Super Kings had a 100% win percentage in the year 2011 when they played in their home ground. Whereas, in 2014, Chennai Super Kings  had the highest win percentage of 81% when they played away.
+
+
+
+
+
+
 
