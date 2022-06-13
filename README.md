@@ -2,7 +2,7 @@
 <br>
 
 ## Overview
-Found insights using Tableau on matches, players, and teams on an IPL dataset. The dataset consists of data from all IPL seasons between 2008 and 2017. Built three dashboards describing the match, player, and team statistics across all IPL seasons.
+Performed analysis and visualisation using Tableau on an IPL dataset and found insights on matches, players, and teams. The dataset consists of details of the matches from all IPL seasons held between 2008 and 2017. Built three dashboards describing the match, player, and team statistics across all IPL seasons. Finally, made inferences based on the insights found from each specific dashboard in a powerpoint presentation.
 
 <br>
 
