@@ -58,7 +58,7 @@ The final dashboard can be broken down into several categories and sub-categorie
 
 
 ## Inferences
-1. Match Statistics
+1. **Match Statistics**
    - M Chinnaswamy Stadiumis the ground that not only has the highest count of toss winners resulting in winning the match, but also has the the highest    count of toss winners resulting in loosing the match.
    - OUTsurance Oval venue is having no toss winner that had lost the match. 
    - Vidarbha Cricket Association Stadium, Jamtha has the lowest count of toss winners who won the match.
