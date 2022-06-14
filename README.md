@@ -1,7 +1,7 @@
 # IPL Visualisation
 <br>
 
-**Published on Tableau Public [here]("https://public.tableau.com/app/profile/ameya.shukla1509/viz/IPLVisualisation_16551786286170/MatchStatistics")**
+### Published on Tableau Public [here](https://public.tableau.com/app/profile/ameya.shukla1509/viz/IPLVisualisation_16551786286170/MatchStatistics)
 
 ## Overview
 Performed analysis and visualisation using Tableau on an IPL dataset and found insights on matches, players, and teams. The dataset consists of details of the matches from all IPL seasons held between 2008 and 2017. Built three dashboards describing the match, player, and team statistics across all IPL seasons. Finally, made inferences based on the insights found from each specific dashboard in a powerpoint presentation.
@@ -81,10 +81,4 @@ The final dashboard can be broken down into several categories and sub-categorie
    - Mumbai Indians had the highest number of wins whereas Kochi Tuskers Kerala had the lowest wins.
    - Delhi Daredevils had the highest number of IPL losses whereas Kochi Tuskers Kerala had the lowest IPL losses.
    - Chennai Super Kings had a 100% win percentage in the year 2011 when they played in their home ground. Whereas, in 2014, Chennai Super Kings  had the highest win percentage of 81% when they played away.
-
-
-
-
-
-
 
