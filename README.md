@@ -1,6 +1,8 @@
 # IPL Visualisation
 <br>
 
+**Published on Tableau Public [here]("https://public.tableau.com/app/profile/ameya.shukla1509/viz/IPLVisualisation_16551786286170/MatchStatistics")**
+
 ## Overview
 Performed analysis and visualisation using Tableau on an IPL dataset and found insights on matches, players, and teams. The dataset consists of details of the matches from all IPL seasons held between 2008 and 2017. Built three dashboards describing the match, player, and team statistics across all IPL seasons. Finally, made inferences based on the insights found from each specific dashboard in a powerpoint presentation.
 
