@@ -1,7 +1,7 @@
 # IPL Visualisation
 
 
-#### Published on Tableau Public [here](https://public.tableau.com/app/profile/ameya.shukla1509/viz/IPLVisualisation_16551786286170/MatchStatistics)
+#### Published on Tableau Public [here](https://public.tableau.com/app/profile/ameyashukla1999/viz/IPLVisualisation_16551786286170/MatchStatistics)
 <br>
 
 ## Overview
